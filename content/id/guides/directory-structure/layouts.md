@@ -165,7 +165,7 @@ export default {
 
 <base-alert type="info">
 
-Kode untuk halaman galat (default) [tersedia pada GitHub](https://github.com/nuxt/nuxt.js/blob/dev/packages/vue-app/template/components/nuxt-galat.vue).
+Kode untuk halaman galat (default) [tersedia pada GitHub](https://github.com/nuxt/nuxt.js/blob/dev/packages/vue-app/template/components/nuxt-error.vue).
 
 </base-alert>
 
